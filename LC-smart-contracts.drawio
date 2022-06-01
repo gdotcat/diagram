@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T08:43:08.776Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="I9k4gbQufN0eHEhbx0JO" version="18.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:44:05.546Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="-vY_LVttGHpgu_KP2Bvv" version="18.1.3" type="github" pages="2">
   <diagram id="cOJ6bMbGwsnGVkhMZ-Hh" name="Page-1">
     <mxGraphModel dx="3000" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -579,53 +579,6 @@
         </mxCell>
         <mxCell id="iaT0aXB9e8RMt8o8AJyx-1" value="Middleware" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-16" value="create" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cliN7YQhNpS2GJOzwcvW-17" target="cliN7YQhNpS2GJOzwcvW-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-17" value="UPASLCFactory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1737" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-18" value="create" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cliN7YQhNpS2GJOzwcvW-19" target="cliN7YQhNpS2GJOzwcvW-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-19" value="Middleware" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1737" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cliN7YQhNpS2GJOzwcvW-21" target="cliN7YQhNpS2GJOzwcvW-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-21" value="LC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1737" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-22" value="Smart contracts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="160" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-23" value="1.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1777" y="630" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-24" value="Stage" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="230" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cliN7YQhNpS2GJOzwcvW-26" target="cliN7YQhNpS2GJOzwcvW-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-26" value="Business logic layer" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1617" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-27" value="create" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cliN7YQhNpS2GJOzwcvW-28" target="cliN7YQhNpS2GJOzwcvW-19">
-          <mxGeometry x="0.5455" y="-20" relative="1" as="geometry">
-            <mxPoint x="20" y="-20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-28" value="Interface" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1857" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-29" value="Middleware" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cliN7YQhNpS2GJOzwcvW-30" value="User" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
